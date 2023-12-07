@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kolawole israel
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on lot of projects
 - 📫 How to reach me 08130098866
 
